@@ -1,1 +1,1 @@
-printf('testando git')
+print('testando git')
